@@ -69,11 +69,6 @@ CancerScan-AI/
 │   ├── index.html
 │   └── result.html
 │
-├── screenshots/
-│   ├── home_page.png
-│   ├── benign_result.png
-│   └── malignant_result.png
-│
 ├── train_model.py
 ├── app.py
 ├── requirements.txt
